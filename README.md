@@ -1,7 +1,5 @@
 # Pintree
 
-[English](README.md) | [中文](README.zh.md)
-
 Pintree 是一个开源项目，旨在将浏览器书签导出成导航网站。通过简单的几步操作，就可以将书签转换成一个美观且易用的导航页面。
 
 ## 项目功能和目标
@@ -46,33 +44,4 @@ Pintree 是一个开源项目，旨在将浏览器书签导出成导航网站。
 
 ---
 
-通过以上步骤，您已经成功完成了 Pintree 项目的安装和运行。如果有任何问题，可以加群获取更多帮助，也可以添加我的微信: ```Gift_wei``` 我拉你进交流群
-
-![](https://github.com/Pintree-io/pintree/blob/main/assets/wechat_group.png)
-
-## 使用技术
-
-- HTML/CSS/JavaScript
-- JSON格式处理
-- 静态网站托管
-
-## 贡献指南
-
-欢迎贡献代码和提出建议！请遵循以下步骤参与项目：
-
-1. Fork 本仓库：https://github.com/Pintree-io/pintree/tree/main
-2. 创建一个新的分支 (`git checkout -b feature/your-feature`)
-3. 提交您的修改 (`git commit -am 'Add some feature'`)
-4. 推送到分支 (`git push origin feature/your-feature`)
-5. 提交一个 Pull Request
-
-请注意，`main` 分支是项目的源代码分支，而 `gh-pages` 分支是打包出来的静态网站代码分支。请在 `main` 分支上进行开发和提交，然后我们会负责将代码打包并发布到 `gh-pages` 分支。
-
-## 联系方式
-
-如有任何问题或建议，请通过以下方式联系我们：
-- 项目网站: [Pintree](https://pintree.io/)
-- Email: viggo.zw@gmail.com
-- 微信：```Gift_wei```
-
-感谢使用和支持！
+通过以上步骤，您已经成功完成了 Pintree 项目的安装和运行。
